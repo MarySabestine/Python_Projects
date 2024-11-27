@@ -7,3 +7,5 @@ No Python libraries or modules were imported, as basic arithmetic operations can
 - It calculates the results for addition, subtraction, and multiplication.
 - For division, the program checks if the second number is zero to avoid a division error.
 - Finally, it displays the results of all operations.
+
+![Image](https://github.com/user-attachments/assets/bf32d2d1-2edf-4b8e-bff6-d3b50f8ded24)
